@@ -1,0 +1,156 @@
+{
+    "Kick and Defend": {
+        "Adversary1": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_ppo2_1.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_ppo2_1.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_ppo2_1.mp4"
+        },
+        "Adversary2": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_ppo2_2.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_ppo2_2.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_ppo2_2.mp4"
+        },
+        "Adversary3": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_ppo2_3.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_ppo2_3.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_ppo2_3.mp4"
+        },
+        "Random": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_random_none.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_random_none.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_random_none.mp4"
+        },
+        "Lifeless Zero Policy": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_zero_none.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_zero_none.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_zero_none.mp4"
+        },
+        "Zoo1": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_zoo_1.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_zoo_1.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_zoo_1.mp4"
+        },
+        "Zoo2": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_zoo_2.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_zoo_2.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_zoo_2.mp4"
+        },
+        "Zoo3": {
+            "Zoo1": "videos/KickAndDefend-v0_victim_zoo_1_opponent_zoo_3.mp4",
+            "Zoo2": "videos/KickAndDefend-v0_victim_zoo_2_opponent_zoo_3.mp4",
+            "Zoo3": "videos/KickAndDefend-v0_victim_zoo_3_opponent_zoo_3.mp4"
+        }
+    },
+    "Sumo Ants": {
+        "Adversary1": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_ppo2_1.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_ppo2_1.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_ppo2_1.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_ppo2_1.mp4"
+        },
+        "Adversary2": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_ppo2_2.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_ppo2_2.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_ppo2_2.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_ppo2_2.mp4"
+        },
+        "Adversary3": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_ppo2_3.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_ppo2_3.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_ppo2_3.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_ppo2_3.mp4"
+        },
+        "null": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_zoo_4.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_zoo_4.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_zoo_4.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_zoo_4.mp4"
+        },
+        "Random": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_random_none.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_random_none.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_random_none.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_random_none.mp4"
+        },
+        "Lifeless Zero Policy": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_zero_none.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_zero_none.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_zero_none.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_zero_none.mp4"
+        },
+        "Zoo1": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_zoo_1.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_zoo_1.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_zoo_1.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_zoo_1.mp4"
+        },
+        "Zoo2": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_zoo_2.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_zoo_2.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_zoo_2.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_zoo_2.mp4"
+        },
+        "Zoo3": {
+            "Zoo1": "videos/SumoAnts-v0_victim_zoo_1_opponent_zoo_3.mp4",
+            "Zoo2": "videos/SumoAnts-v0_victim_zoo_2_opponent_zoo_3.mp4",
+            "Zoo3": "videos/SumoAnts-v0_victim_zoo_3_opponent_zoo_3.mp4",
+            "null": "videos/SumoAnts-v0_victim_zoo_4_opponent_zoo_3.mp4"
+        }
+    },
+    "Sumo Humans": {
+        "Adversary1": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_ppo2_1.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_ppo2_1.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_ppo2_1.mp4"
+        },
+        "Adversary2": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_ppo2_2.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_ppo2_2.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_ppo2_2.mp4"
+        },
+        "Adversary3": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_ppo2_3.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_ppo2_3.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_ppo2_3.mp4"
+        },
+        "Random": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_random_none.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_random_none.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_random_none.mp4"
+        },
+        "Lifeless Zero Policy": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_zero_none.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_zero_none.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_zero_none.mp4"
+        },
+        "Zoo1": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_zoo_1.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_zoo_1.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_zoo_1.mp4"
+        },
+        "Zoo2": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_zoo_2.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_zoo_2.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_zoo_2.mp4"
+        },
+        "Zoo3": {
+            "Zoo1": "videos/SumoHumans-v0_victim_zoo_1_opponent_zoo_3.mp4",
+            "Zoo2": "videos/SumoHumans-v0_victim_zoo_2_opponent_zoo_3.mp4",
+            "Zoo3": "videos/SumoHumans-v0_victim_zoo_3_opponent_zoo_3.mp4"
+        }
+    },
+    "You Shall Not Pass": {
+        "Adversary1": {
+            "Zoo1": "videos/YouShallNotPassHumans-v0_victim_zoo_1_opponent_ppo2_1.mp4"
+        },
+        "Random": {
+            "Zoo1": "videos/YouShallNotPassHumans-v0_victim_zoo_1_opponent_random_none.mp4"
+        },
+        "Lifeless Zero Policy": {
+            "Zoo1": "videos/YouShallNotPassHumans-v0_victim_zoo_1_opponent_zero_none.mp4"
+        },
+        "Zoo1": {
+            "Zoo1": "videos/YouShallNotPassHumans-v0_victim_zoo_1_opponent_zoo_1.mp4"
+        }
+    }
+}
