@@ -40,41 +40,6 @@
           <p>Deep reinforcement learning (RL) policies are known to be vulnerable to adversarial perturbations to their observations, similar to adversarial examples for classifiers. However, an attacker is not usually able to directly modify observations. This might lead one to wonder: is it possible to attack an RL agent simply by choosing an adversarial policy acting in a shared environment so as to create natural observations that are adversarial? We demonstrate the existence of adversarial policies in zero-sum simulated robotics games, against state-of-the-art victims trained via self-play to be robust to adversaries. The adversarial policies reliably win against the victims despite not playing the game: they fall to the ground, and look similar to a random policy. We find our attack is more successful in high-dimensional environments, and induces activations in the victim that are extremely unlikely to occur when playing a normal opponent.</p>
         </section>
         <section class="js-section">
-          <h3 class="section__title">Results</h3>
-          <p>By optimizing an adversary directly against a given zoo agent, we can achieve win rates much higher than those observed with simple random or lifeless policies.</p>
-          <table id="customers">
-            <tr>
-              <th>Environment</th>
-              <th>Adversary</th>
-              <th>Random</th>
-              <th>Zoo</th>
-              <th>Lifeless</th>
-            </tr>
-            <tr>
-              <td>Kick and Defend</td>
-              <td>62%</td>
-              <td>30%</td>
-              <td>30-90%</td>
-              <td>33%</td>
-            </tr>
-            <tr>
-              <td>Sumo Humans</td>
-              <td>82%</td>
-              <td>0%</td>
-              <td>19-83%</td>
-              <td>0%</td>
-            </tr>
-             <tr>
-              <td>You Shall Not Pass</td>
-              <td>73%</td>
-              <td>46%</td>
-              <td>19-83%</td>
-              <td>1%</td>
-            </tr>
-          </table>
-          <hr />
-        </section>
-        <section class="js-section">
           <h3 class="section__title">Comparisons</h3>
           <img class="comparegif" src="img/ysnp_adv.gif">
           <img class="comparegif" src="img/ysnp_random.gif">
