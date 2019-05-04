@@ -103,7 +103,7 @@
           $(document).ready(function() {
 
       $.getJSON('file_list.json', function(json_data){
-        var bucket_link = "http://adversarial-policies-public.s3.amazonaws.com/"
+        var bucket_link = "https://adversarial-policies-public.s3.amazonaws.com/"
         var main_menu_list = $('#ul-video-menu')
         for (var env_name in json_data){
           var env_list = $('<li/>').appendTo(main_menu_list)
